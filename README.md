@@ -57,17 +57,9 @@
 *  Add Card chart, Pie chart, Line chart, Table chart, Matrix chart, Area chart etc
 
 
-## **Dashboard**
 
-  [Download The File](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix) and Open In Power BI Desktop for Interactive Viewing.
-
-  [View Screenshots](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/blob/main/PowerBI%20HR%20Dashboard.pdf) of the Dashboard in PDF format.
-  
-  [View Photos](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/tree/main/Power%20BI%20HR-Dashboard%20Photos) of Dashboard and excel analysis.
   
  
-*  **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
-
 
 
 
